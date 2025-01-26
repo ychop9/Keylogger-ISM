@@ -1,0 +1,6 @@
+
+Public IP Address: + public_ipProcessor: Intel64 Family 6 Model 154 Stepping 4, GenuineIntel
+System: Windows 10.0.22631
+Machine: AMD64
+Hostname: YagnikaPC
+Private IP Address: 192.168.4.219
